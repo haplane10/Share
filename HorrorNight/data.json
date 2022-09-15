@@ -1,0 +1,87 @@
+{
+  "Data": [
+    {
+      "place": 1,
+      "Infos": [
+        {
+          "Name": "가위소녀_병원",
+          "Latitude": 34.95695114135742,
+          "Longitude": 127.53765106201172,
+          "Beacon": {
+            "Region": "com.soonchundrama.house1_1",
+            "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+            "Major": 40011,
+            "Minor": 16499
+          },
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "변소귀신_화장실",
+          "Latitude": 34.956878662109378,
+          "Longitude": 127.5382308959961,
+          "Beacon": {
+            "Region": "com.soonchundrama.house1_2",
+            "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+            "Major": 40011,
+            "Minor": 16492
+          },
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "빨간리본소녀_당구장",
+          "Latitude": 34.95686721801758,
+          "Longitude": 127.537353515625,
+          "Beacon": {
+            "Region": "com.soonchundrama.house1_3",
+            "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+            "Major": 40011,
+            "Minor": 19590
+          },
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "웃는여자_만화방",
+          "Latitude": 34.95717239379883,
+          "Longitude": 127.53689575195313,
+          "Beacon": {
+            "Region": "com.soonchundrama.house1_4",
+            "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+            "Major": 40011,
+            "Minor": 19591
+          },
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "이름없는여고생_노래방",
+          "Latitude": 34.956748962402347,
+          "Longitude": 127.53776550292969,
+          "Beacon": {
+            "Region": "com.soonchundrama.house1_5",
+            "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+            "Major": 40011,
+            "Minor": 16495
+          },
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "헤메는여자_식당",
+          "Latitude": 34.957237243652347,
+          "Longitude": 127.53736877441406,
+          "Beacon": {
+            "Region": "com.soonchundrama.house1_6",
+            "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+            "Major": 40011,
+            "Minor": 19692
+          },
+          "IsSuccess": false,
+          "Life": 3
+        }
+      ]
+    }
+  ]
+}

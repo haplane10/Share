@@ -1,0 +1,253 @@
+{
+  "GhostPlaces": [
+    {
+      "place": 1,
+      "Infos": [
+        {
+          "Name": "Point1",
+          "Latitude": "37.559558",
+          "Longitude": "126.950377",
+          "Beacon": {
+            "Region": "",
+            "UUID": "",
+            "Major": 0,
+            "Minor": 0
+          },
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point2",
+          "Latitude": "37.559358",
+          "Longitude": "126.950375",
+          "Beacon": {
+            "Region": "",
+            "UUID": "",
+            "Major": 0,
+            "Minor": 0
+          },
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point3",
+          "Latitude": "37.559400",
+          "Longitude": "126.950500",
+          "Beacon": {
+            "Region": "",
+            "UUID": "",
+            "Major": 0,
+            "Minor": 0
+          },
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point4",
+          "Latitude": "37.559599",
+          "Longitude": "126.950299",
+          "Beacon": {
+            "Region": "",
+            "UUID": "",
+            "Major": 0,
+            "Minor": 0
+          },
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point5",
+          "Latitude": "37.559460",
+          "Longitude": "126.950000",
+          "Beacon": {
+            "Region": "",
+            "UUID": "",
+            "Major": 0,
+            "Minor": 0
+          },
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point6",
+          "Latitude": "37.559501",
+          "Longitude": "126.950368",
+          "Beacon": {
+            "Region": "",
+            "UUID": "",
+            "Major": 0,
+            "Minor": 0
+          },
+          "IsSuccess": false,
+          "Life": 3
+        }
+      ]
+    },
+    {
+      "place": 2,
+      "Infos": [
+        {
+          "Name": "Point1",
+          "Latitude": "37.559558",
+          "Longitude": "126.950377",
+          "Beacon": {
+            "Region": "",
+            "UUID": "",
+            "Major": 0,
+            "Minor": 0
+          },
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point2",
+          "Latitude": "37.559358",
+          "Longitude": "126.950375",
+          "Beacon": {
+            "Region": "",
+            "UUID": "",
+            "Major": 0,
+            "Minor": 0
+          },
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point3",
+          "Latitude": "37.559400",
+          "Longitude": "126.950500",
+          "Beacon": {
+            "Region": "",
+            "UUID": "",
+            "Major": 0,
+            "Minor": 0
+          },
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point4",
+          "Latitude": "37.559599",
+          "Longitude": "126.950299",
+          "Beacon": {
+            "Region": "",
+            "UUID": "",
+            "Major": 0,
+            "Minor": 0
+          },
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point5",
+          "Latitude": "37.559460",
+          "Longitude": "126.950000",
+          "Beacon": {
+            "Region": "",
+            "UUID": "",
+            "Major": 0,
+            "Minor": 0
+          },
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point6",
+          "Latitude": "37.559501",
+          "Longitude": "126.950368",
+          "Beacon": {
+            "Region": "",
+            "UUID": "",
+            "Major": 0,
+            "Minor": 0
+          },
+          "IsSuccess": false,
+          "Life": 3
+        }
+      ]
+    },
+    {
+      "place": 3,
+      "Infos": [
+        {
+          "Name": "Point1",
+          "Latitude": "37.559558",
+          "Longitude": "126.950377",
+          "Beacon": {
+            "Region": "",
+            "UUID": "",
+            "Major": 0,
+            "Minor": 0
+          },
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point2",
+          "Latitude": "37.559358",
+          "Longitude": "126.950375",
+          "Beacon": {
+            "Region": "",
+            "UUID": "",
+            "Major": 0,
+            "Minor": 0
+          },
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point3",
+          "Latitude": "37.559400",
+          "Longitude": "126.950500",
+          "Beacon": {
+            "Region": "",
+            "UUID": "",
+            "Major": 0,
+            "Minor": 0
+          },
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point4",
+          "Latitude": "37.559599",
+          "Longitude": "126.950299",
+          "Beacon": {
+            "Region": "",
+            "UUID": "",
+            "Major": 0,
+            "Minor": 0
+          },
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point5",
+          "Latitude": "37.559460",
+          "Longitude": "126.950000",
+          "Beacon": {
+            "Region": "",
+            "UUID": "",
+            "Major": 0,
+            "Minor": 0
+          },
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point6",
+          "Latitude": "37.559501",
+          "Longitude": "126.950368",
+          "Beacon": {
+            "Region": "",
+            "UUID": "",
+            "Major": 0,
+            "Minor": 0
+          },
+          "IsSuccess": false,
+          "Life": 3
+        }
+      ]
+    }
+  ]
+}

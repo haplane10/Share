@@ -21,9 +21,9 @@
     {
       "Name": "Level2",
       "Bricks": [
-        "cone.zip",
-        "donet.zip",
-        "Door.zip"
+        "cone",
+        "donet",
+        "Door"
       ]
     }
   ]

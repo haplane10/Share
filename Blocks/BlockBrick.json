@@ -4,6 +4,7 @@
   "Title": "Block Bricks",
   "Levels": [
     {
+	  "Folder": "Level1",
       "Name": "Level1",
       "Bricks": [
         "Donut1",
@@ -19,11 +20,27 @@
       ]
     },
     {
+	  "Folder": "Level2",
       "Name": "Level2",
       "Bricks": [
         "cone",
         "donut",
         "Door"
+      ]
+    },
+	{
+	  "Folder": "Frog"
+      "Name": "개구리",
+      "Bricks": [
+        "frog01_f01",
+        "frog01_f02",
+        "frog02_f01",
+		"frog02_f02",
+		"frog02_f03",
+		"frog03_f01",
+		"frog03_f02",
+		"frog04_f01",
+		"frog04_f02"
       ]
     }
   ]

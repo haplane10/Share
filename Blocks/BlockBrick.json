@@ -5,7 +5,7 @@
   "Levels": [
     {
 	  "Folder": "Level1",
-      "Name": "Level1레",
+      "Name": "Level1",
       "Bricks": [
         "Donut1",
         "Donut2",
@@ -21,7 +21,7 @@
     },
     {
 	  "Folder": "Level2",
-      "Name": "Level2벨",
+      "Name": "Level2",
       "Bricks": [
         "cone",
         "donut",

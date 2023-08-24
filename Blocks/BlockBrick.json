@@ -19,17 +19,8 @@
         "Donut10"
       ]
     },
-    {
-	  "Folder": "Level2",
-      "Name": "Level2",
-      "Bricks": [
-        "cone",
-        "donut",
-        "Door"
-      ]
-    },
 	{
-	  "Folder": "Frog_2",
+	  "Folder": "Frog",
       "Name": "Frog",
       "Bricks": [
         "frog01_01",

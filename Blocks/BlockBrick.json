@@ -29,21 +29,6 @@
       ]
     },
 	{
-	  "Folder": "Frog",
-      "Name": "Frog",
-      "Bricks": [
-        "frog01_f01",
-        "frog01_f02",
-        "frog02_f01",
-		"frog02_f02",
-		"frog02_f03",
-		"frog03_f01",
-		"frog03_f02",
-		"frog04_f01",
-		"frog04_f02"
-      ]
-    },
-	{
 	  "Folder": "Frog_2",
       "Name": "Frog",
       "Bricks": [

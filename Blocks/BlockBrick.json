@@ -42,6 +42,21 @@
 		"frog04_f01",
 		"frog04_f02"
       ]
+    },
+	{
+	  "Folder": "Frog_2",
+      "Name": "Frog",
+      "Bricks": [
+        "frog01_01",
+        "frog01_02",
+        "frog02_01",
+		"frog02_02",
+		"frog02_03",
+		"frog03_01",
+		"frog03_02",
+		"frog04_01",
+		"frog04_02"
+      ]
     }
   ]
 }

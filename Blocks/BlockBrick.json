@@ -20,8 +20,8 @@
       ]
     },
 	{
-	  "Folder": "Frog_2",
-      "Name": "Frog",
+	  "Folder": "Frog",
+      "Name": "개구리",
       "Bricks": [
         "frog01_01",
         "frog01_02",
@@ -32,6 +32,22 @@
 		"frog03_02",
 		"frog04_01",
 		"frog04_02"
+      ]
+    },
+	{
+	  "Folder": "Gorilla",
+      "Name": "고릴라",
+      "Bricks": [
+        "gorilla_01_01",
+        "gorilla_01_02",
+        "gorilla_02_01",
+		"gorilla_02_02",
+		"gorilla_03_01",
+		"gorilla_03_02",
+		"gorilla_04_01",
+		"gorilla_04_02",
+		"gorilla_05_01",
+		"gorilla_05_02"
       ]
     }
   ]

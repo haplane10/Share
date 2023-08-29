@@ -21,7 +21,7 @@
     },
 	{
 	  "Folder": "Frog",
-      "Name": "개구리",
+      "Name": "Frog",
       "Bricks": [
         "frog01_01",
         "frog01_02",
@@ -36,7 +36,7 @@
     },
 	{
 	  "Folder": "Gorilla",
-      "Name": "고릴라",
+      "Name": "Gorilla",
       "Bricks": [
         "gorilla_01_01",
         "gorilla_01_02",

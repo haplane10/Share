@@ -49,6 +49,23 @@
 		"gorilla_05_01",
 		"gorilla_05_02"
       ]
+    },
+	{
+	  "Folder": "Giraffe",
+      "Name": "기린",
+      "Bricks": [
+        "giraffe01_01",
+        "giraffe01_02",
+        "giraffe02_01",
+		"giraffe02_02",
+		"giraffe03_01",
+		"giraffe03_02",
+		"giraffe03_03",
+		"giraffe04_01",
+		"giraffe04_02",
+		"giraffe05_01",
+		"giraffe05_02"
+      ]
     }
   ]
 }

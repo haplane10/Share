@@ -66,6 +66,22 @@
 		"giraffe05_01",
 		"giraffe05_02"
       ]
+    },
+	{
+	  "Folder": "Squirrel",
+      "Name": "다람쥐",
+      "Bricks": [
+        "squirrel01_01",
+        "squirrel01_02",
+        "squirrel02_01",
+		"squirrel02_02",
+		"squirrel03_01",
+		"squirrel03_02",
+		"squirrel04_01",
+		"squirrel04_02",
+		"squirrel05_01",
+		"squirrel05_02"
+      ]
     }
   ]
 }

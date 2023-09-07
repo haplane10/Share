@@ -3,22 +3,6 @@
   "ReleaseDate": "2023-09-30",
   "Title": "Block Bricks",
   "Levels": [
-    {
-	  "Folder": "Level1",
-      "Name": "Level1",
-      "Bricks": [
-        "Donut1",
-        "Donut2",
-        "Donut3",
-        "Donut4",
-        "Donut5",
-        "Donut6",
-        "Donut7",
-        "Donut8",
-        "Donut9",
-        "Donut10"
-      ]
-    },
 	{
 	  "Folder": "Frog",
       "Name": "개구리",

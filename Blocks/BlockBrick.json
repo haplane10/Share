@@ -84,7 +84,7 @@
       ]
     },
 	{
-	  "Folder": "Sanke",
+	  "Folder": "Snake",
       "Name": "뱀",
       "Bricks": [
         "snake_f01_01",

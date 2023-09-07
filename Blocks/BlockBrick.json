@@ -82,6 +82,20 @@
 		"squirrel05_01",
 		"squirrel05_02"
       ]
+    },
+	{
+	  "Folder": "Sanke",
+      "Name": "뱀",
+      "Bricks": [
+        "snake_f01_01",
+        "snake_f01_02",
+        "snake_f01_03",
+		"snake_f01_04",
+		"snake_f02_01",
+		"snake_f02_02",
+		"snake_f03_01",
+		"snake_f03_02"
+      ]
     }
   ]
 }

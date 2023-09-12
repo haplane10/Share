@@ -205,7 +205,8 @@
 	{
 	  "Folder": "Rooster",
       "Name": "수탉",
-      "Bricks": [
+      "Bricks":
+	  [
         "rooster01_1",
         "rooster01_2",
         "rooster02_1",

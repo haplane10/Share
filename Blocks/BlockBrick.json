@@ -7,6 +7,7 @@
 			"_comment": "개구리  파일:9",
 			"Folder": "Frog",
 			"Name": "개구리",
+			"Size": 1.0,
 			"Bricks": [
 				"frog01_01",
 				"frog01_02",
@@ -111,6 +112,7 @@
 			"_comment": "고릴라  파일:10",
 			"Folder": "Gorilla",
 			"Name": "고릴라",
+			"Size": 1.0,
 			"Bricks": [
 				"gorilla_01_01",
 				"gorilla_01_02",
@@ -225,6 +227,7 @@
 			"_comment": "기린  파일:11",
 			"Folder": "Giraffe",
 			"Name": "기린",
+			"Size": 1.0,
 			"Bricks": [
 				"giraffe01_01",
 				"giraffe01_02",
@@ -349,6 +352,7 @@
 			"_comment": "다람쥐  파일:10",
 			"Folder": "Squirrel",
 			"Name": "다람쥐",
+			"Size": 1.0,
 			"Bricks": [
 				"squirrel01_01",
 				"squirrel01_02",
@@ -463,6 +467,7 @@
 			"_comment": "뱀  파일:8",
 			"Folder": "Snake",
 			"Name": "뱀",
+			"Size": 1.0,
 			"Bricks": [
 				"snake_f01_01",
 				"snake_f01_02",
@@ -557,6 +562,7 @@
 			"_comment": "수탉  파일:8",
 			"Folder": "Rooster",
 			"Name": "수탉",
+			"Size": 1.0,
 			"Bricks": [
 				"rooster01_1",
 				"rooster01_2",
@@ -651,6 +657,7 @@
 			"_comment": "젓소  파일:8",
 			"Folder": "Cow",
 			"Name": "젓소",
+			"Size": 1.0,
 			"Bricks": [
 				"cow01_01",
 				"cow01_02",
@@ -745,6 +752,7 @@
 			"_comment": "하마  파일:16",
 			"Folder": "Hippo",
 			"Name": "하마",
+			"Size": 1.0,
 			"Bricks": [
 				"hippo01_f01",
 				"hippo01_f02",
@@ -919,6 +927,7 @@
 			"_comment": "캥거루  파일:10",
 			"Folder": "Kangaroo",
 			"Name": "캥거루",
+			"Size": 1.0,
 			"Bricks": [
 				"kan_01_01",
 				"kan_01_02",
@@ -1033,6 +1042,7 @@
 			"_comment": "타조  파일:13",
 			"Folder": "Ostrich",
 			"Name": "타조",
+			"Size": 1.0,
 			"Bricks": [
 				"ostrich01_01",
 				"ostrich01_02",
@@ -1177,6 +1187,7 @@
 			"_comment": "11 물레방아  파일:9",
 			"Folder": "11_Waterwheel",
 			"Name": "물레방아",
+			"Size": 0.01,
 			"Bricks": [
 				"11-01",
 				"11-02",
@@ -1281,6 +1292,7 @@
 			"_comment": "12 롤러코스터2  파일:10",
 			"Folder": "12_Rollercoster2",
 			"Name": "롤러코스터2",
+			"Size": 0.01,
 			"Bricks": [
 				"12-01",
 				"12-02",
@@ -1395,6 +1407,7 @@
 			"_comment": "13 키네틱 아트 - 피겨스케이팅 선수  파일:22",
 			"Folder": "13_FigureSkating",
 			"Name": "피겨스케이팅",
+			"Size": 0.01,
 			"Bricks": [
 				"13-01",
 				"13-02",
@@ -1629,6 +1642,7 @@
 			"_comment": "14 입체별  파일:6",
 			"Folder": "14_Star",
 			"Name": "입체별",
+			"Size": 0.01,
 			"Bricks": [
 				"14-01",
 				"14-02",
@@ -1703,6 +1717,7 @@
 			"_comment": "15 역학구조 - 다리  파일:11",
 			"Folder": "15_Bridge",
 			"Name": "역학구조 다리",
+			"Size": 0.01,
 			"Bricks": [
 				"15-01",
 				"15-02",
@@ -1827,6 +1842,7 @@
 			"_comment": "16 지오데식 돔 (3단계)  파일:10",
 			"Folder": "16_GeodesicDome",
 			"Name": "지오데식 돔",
+			"Size": 0.01,
 			"Bricks": [
 				"16-01",
 				"16-02",
@@ -1941,6 +1957,7 @@
 			"_comment": "17 무동력자동차  파일:8",
 			"Folder": "17_Car",
 			"Name": "무동력자동차",
+			"Size": 0.01,
 			"Bricks": [
 				"17-01",
 				"17-02",
@@ -2035,6 +2052,7 @@
 			"_comment": "18 그네  파일:6",
 			"Folder": "18_Swing",
 			"Name": "그네",
+			"Size": 0.01,
 			"Bricks": [
 				"18-01",
 				"18-02",
@@ -2109,6 +2127,7 @@
 			"_comment": "19 우주왕복선  파일:9",
 			"Folder": "19_SpaceShip",
 			"Name": "우주왕복선",
+			"Size": 0.01,
 			"Bricks": [
 				"19-01",
 				"19-02",
@@ -2213,6 +2232,7 @@
 			"_comment": "20 깎은 정이십면체 축구공  파일:5",
 			"Folder": "20_Soccerball",
 			"Name": "축구공",
+			"Size": 0.01,
 			"Bricks": [
 				"20-01",
 				"20-02",
@@ -2277,6 +2297,7 @@
 			"_comment": "21 시엘핀스키 열쇠고리  파일:6",
 			"Folder": "21_CierpinskiKeychain",
 			"Name": "시엘핀스키\n열쇠고리",
+			"Size": 0.01,
 			"Bricks": [
 				"21-01",
 				"21-02",
@@ -2351,6 +2372,7 @@
 			"_comment": "22 로봇 집게손  파일:17",
 			"Folder": "22_RobotHand",
 			"Name": "로봇 집게손",
+			"Size": 0.01,
 			"Bricks": [
 				"22-01",
 				"22-02",
@@ -2534,7 +2556,8 @@
 		{
 			"_comment": "23 시엘핀스키 피라미드  파일:6",
 			"Folder": "23_CierpinskiPyramid",
-			"Name": "시엘핀스키 피라미드",
+			"Name": "시엘핀스키\n피라미드",
+			"Size": 0.01,
 			"Bricks": [
 				"23-01",
 				"23-02",
@@ -2609,6 +2632,7 @@
 			"_comment": "24 투석기  파일:11",
 			"Folder": "24_DialysisMachine",
 			"Name": "투석기",
+			"Size": 0.01,
 			"Bricks": [
 				"24-01",
 				"24-02",
@@ -2733,6 +2757,7 @@
 			"_comment": "25 사이클로이드  파일:9",
 			"Folder": "25_Cycloid",
 			"Name": "사이클로이드",
+			"Size": 0.01,
 			"Bricks": [
 				"25-01",
 				"25-02",
@@ -2836,7 +2861,8 @@
 		{
 			"_comment": "26 피보나치 수열 황금 나선  파일:10",
 			"Folder": "26_FibonacciSpiral",
-			"Name": "피보나치 황금 나선",
+			"Name": "피보나치\n황금 나선",
+			"Size": 0.01,
 			"Bricks": [
 				"26-01",
 				"26-02",
@@ -2950,7 +2976,8 @@
 		{
 			"_comment": "27 삼각 기둥과 사각 기둥  파일:6",
 			"Folder": "27_TriangularSquareColumns",
-			"Name": "삼각기둥과 사각기둥",
+			"Name": "삼각기둥과\n사각기둥",
+			"Size": 0.01,
 			"Bricks": [
 				"27-01",
 				"27-02",
@@ -3025,6 +3052,7 @@
 			"_comment": "28 오더리 삼각형  파일:7",
 			"Folder": "28_OrderlyTriangle",
 			"Name": "오더리 삼각형",
+			"Size": 0.01,
 			"Bricks": [
 				"28-01",
 				"28-02",
@@ -3109,6 +3137,7 @@
 			"_comment": "29 각 기둥 Set  파일:12",
 			"Folder": "29_Pillar",
 			"Name": "각 기둥 Set",
+			"Size": 0.01,
 			"Bricks": [
 				"29-01",
 				"29-02",
@@ -3242,7 +3271,8 @@
 		{
 			"_comment": "30 바람에너지 풍차구조물  파일:9",
 			"Folder": "30_Windmill",
-			"Name": "풍차구조물",
+			"Name": "풍차 구조물",
+			"Size": 0.01,
 			"Bricks": [
 				"30-01",
 				"30-02",
@@ -3347,6 +3377,7 @@
 			"_comment": "31 무당벌레  파일:14",
 			"Folder": "31_Ladybug",
 			"Name": "무당벌레",
+			"Size": 0.01,
 			"Bricks": [
 				"31-01",
 				"31-02",
@@ -3501,6 +3532,7 @@
 			"_comment": "32 DNA5  파일:12",
 			"Folder": "32_DNA5",
 			"Name": "DNA5",
+			"Size": 0.01,
 			"Bricks": [
 				"32-01",
 				"32-02",
@@ -3634,7 +3666,8 @@
 		{
 			"_comment": "33 삼각뿔과 사각뿔  파일:8",
 			"Folder": "33_TriangleSquarePyramid",
-			"Name": "삼각뿔과 사각뿔",
+			"Name": "삼각뿔과\n사각뿔",
+			"Size": 0.01,
 			"Bricks": [
 				"33-01",
 				"33-02",
@@ -3729,6 +3762,7 @@
 			"_comment": "35 클라인 병6  파일:17",
 			"Folder": "35_KleinBottle6",
 			"Name": "클라인 병6",
+			"Size": 0.01,
 			"Bricks": [
 				"35-01",
 				"35-02",
@@ -3912,7 +3946,8 @@
 		{
 			"_comment": "36 접어지는 육면체  파일:8",
 			"Folder": "36_FoldingHexahedron",
-			"Name": "접어지는 육면체",
+			"Name": "접어지는\n육면체",
+			"Size": 0.01,
 			"Bricks": [
 				"36-01",
 				"36-02",
@@ -4007,6 +4042,7 @@
 			"_comment": "37 포디 집게팔  파일:18",
 			"Folder": "37_ClampedArm",
 			"Name": "포디 집게팔",
+			"Size": 0.01,
 			"Bricks": [
 				"37-01",
 				"37-02",
@@ -4201,6 +4237,7 @@
 			"_comment": "38 헬리곱터  파일:27",
 			"Folder": "38_Helicopter",
 			"Name": "헬리곱터",
+			"Size": 0.01,
 			"Bricks": [
 				"38-01",
 				"38-02",
@@ -4484,7 +4521,8 @@
 		{
 			"_comment": "39 시에르핀스키 피라미드(이등변)만들기  파일:9",
 			"Folder": "39_CierpinskiIsoscelesPyramid",
-			"Name": "시에르핀스키 이등변 피라미드",
+			"Name": "시에르핀스키\n이등변 피라미드",
+			"Size": 0.01,
 			"Bricks": [
 				"39-01",
 				"39-02",
@@ -4589,6 +4627,7 @@
 			"_comment": "40 각뿔 set  파일:16",
 			"Folder": "40_PyramidSet",
 			"Name": "각뿔 Set",
+			"Size": 0.01,
 			"Bricks": [
 				"40-01",
 				"40-02",
